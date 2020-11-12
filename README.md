@@ -12,7 +12,7 @@ AIX Disk Mapping Check
 
 Connect to LPAR
 
-Confirm appropriate previleges to run script
+Confirm appropriate privileges to run script, i.e. root/padmin access to hosts script will connect to
 
 Run Command:
 
