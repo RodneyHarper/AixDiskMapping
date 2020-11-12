@@ -1,6 +1,5 @@
-# AixDiskMapping
-AIX Disk Mapping Check
-======================
+AIX Disk Mapping 
+================
 
 Rodney Harper
 
